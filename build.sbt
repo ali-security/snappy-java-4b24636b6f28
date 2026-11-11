@@ -4,6 +4,7 @@ name             := "snappy-java"
 organization     := "org.xerial.snappy"
 organizationName := "xerial.org"
 description      := "snappy-java: A fast compression/decompression library"
+version          := "1.1.10.0"
 
 sonatypeProfileName   := "org.xerial"
 ThisBuild / publishTo := sonatypePublishToBundle.value
